@@ -1,10 +1,10 @@
-# Frontend Mentor - Social proof section solution
+# Social proof section solution
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
 ## Table of contents
 
-- [Frontend Mentor - Social proof section solution](#frontend-mentor---social-proof-section-solution)
+- [Social proof section solution](#social-proof-section-solution)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -20,7 +20,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot)
+**Desktop**
+
+![](./screenshot/desktop.png)
+
+**Mobile**
+
+![](./screenshot/mobile.png)
 
 ### Links
 
